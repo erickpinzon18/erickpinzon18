@@ -1,6 +1,6 @@
 # Hola, soy Erick Pinzon
 
-:computer: Soy estudiante en Programación
+:computer: Soy estudiante en Programación <br>
 :pencil: Mis mayores proyectos han sido en Java
 
 ### Redes Sociales
