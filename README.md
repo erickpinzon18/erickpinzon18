@@ -1,5 +1,15 @@
-### Hi there 👋
+# Hola, soy Erick Pinzon
 
+:computer: Soy estudiante en Programación 
+:pencil: Mis mayores proyectos han sido en Java
+
+### Redes Sociales
+
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>](https://www.instagram.com/erick_pinz0n/)
+[<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/erick.pinzon.52)
+
+
+### Ultimos Proyectos
 <!--
 **erickpinzon18/erickpinzon18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
