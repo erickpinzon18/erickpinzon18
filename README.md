@@ -2,11 +2,13 @@
 
 :computer: Soy estudiante en Programación <br>
 :pencil: Mis mayores proyectos han sido en Java
+🔌 Amante de los videojuegos
 
 ### Redes Sociales
 
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>](https://www.instagram.com/erick_pinz0n/)
 [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/erick.pinzon.52)
+[<img src="https://img.icons8.com/color/48/000000/spotify--v1.png"/>](https://open.spotify.com/user/12153139960)
 
 
 ### Ultimos Proyectos
