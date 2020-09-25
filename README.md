@@ -1,7 +1,7 @@
 # Hola, soy Erick Pinzon
 
 :computer: Soy estudiante en Programación <br>
-:pencil: Mis mayores proyectos han sido en Java
+:pencil: Mis mayores proyectos han sido en Java <br>
 🔌 Amante de los videojuegos
 
 ### Redes Sociales
