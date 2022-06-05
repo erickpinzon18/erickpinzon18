@@ -1,7 +1,7 @@
 # 
 
 <h2> Hola, soy Erick Pinzon! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif">
+<img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="35%">
 :computer: Desarrollo de Software en <a href="http://www.utsjr.edu.mx">UTSJR</a><br>
 :pencil: Mis mayores proyectos han sido en Java y JavaScript<br>
 🔌 Amante de los videojuegos
