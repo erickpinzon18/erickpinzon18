@@ -15,7 +15,7 @@
 
 ```javascript
 const erickpinzon18 = {
-  pronouns: "he",
+  nickname: "Kherzy",
   code: [Javascript, Java, HTML, CSS, PHP, Python,Typescript],
   tools: [Angular, Node],
   techCommunities: {
