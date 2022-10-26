@@ -23,7 +23,7 @@ const erickpinzon18 = {
                         dedicated: "true",
                         languages: "spahish", "intermediate-english"
                       },
- challenge: "Im doing a proyect to save lifes with fall prediction"
+ challenge: "Create a Marketplace with Node JS"
 }
 ```
 
