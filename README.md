@@ -39,7 +39,7 @@ Actualmente, mis proyectos se centran en la **automatización** y el **análisis
 ### **Proyectos Destacados**
 
 * **Asistente Virtual para Negocios:** Una plataforma de automatización que integra **n8n, OpenAI y APIs de Google Cloud** para optimizar la interacción con clientes vía WhatsApp, gestionando hasta **15 citas diarias** y confirmando pagos automáticamente.
-* **Plataforma de Gestión de Cobranza (IMSS):** Creé una solución web que **reemplazó archivos de Excel pesados**, permitiendo la contribución simultánea de múltiples usuarios y mejorando la eficiencia del proceso.
+* **Sistema de Gestión para Taller de Reparación de Computadoras:** Desarrollé un sistema con una API **RESTful en Node.js y una base de datos SQL**. La solución incluye códigos QR para un seguimiento eficiente de los equipos, lo que optimizó el flujo de trabajo y la organización del taller.
 * **Solución Forense (CICATA):** Desarrollé un sistema que aplica la **Distancia de Hellinger** para identificar el origen de una fotografía. El proyecto fue exitoso y se **registró ante el INDAUTOR**.
 
 ---
