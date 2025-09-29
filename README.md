@@ -1,51 +1,51 @@
-# 
+<h1 align="center">Hola, soy Erick Pinzón 👋</h1>
+<p align="center">Ingeniero de Software (Full-Stack & Cloud) apasionado por construir soluciones tecnológicas que resuelven problemas reales.</p>
 
-<h2> Hola, soy Erick Pinzon! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="35%">
-:computer: Desarrollo de Software en <a href="http://www.utsjr.edu.mx">UTSJR</a><br>
-:pencil: Mis mayores proyectos han sido en Java y JavaScript<br>
-🔌 Amante de los videojuegos
+---
 
+### **Sobre mí**
 
-### Un poco mas sobre mi ... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+Soy un **Ingeniero de Software** especializado en desarrollo **Full-Stack** y **Cloud**. Me enfoco en crear soluciones eficientes y escalables utilizando tecnologías modernas como **React, Python y Google Cloud Platform (GCP)**.
 
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>](https://www.instagram.com/erick_pinz0n/)
-[<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/erickpinz0n/)
-[<img src="https://img.icons8.com/color/48/000000/spotify--v1.png"/>](https://open.spotify.com/user/12153139960?si=a39367fcf58b4b81)
+Actualmente, mis proyectos se centran en la **automatización** y el **análisis de datos**. He desarrollado sistemas que optimizan operaciones, como una herramienta que **reduce procesos de 14 a 2 horas**, y un sistema de scraping que procesa hasta **5,000 notas diarias**. Mi objetivo es aplicar mis habilidades para crear un impacto medible.
 
-```javascript
-const erickpinzon18 = {
-  nickname: "Kherzy",
-  code: [Javascript, Java, CSS, PHP, Python, Typescript, Kotlin, Matlab, C++, C#],
-  tools: [Angular, Node],
-  techCommunities: {
-                        oganized: "true",
-                        dedicated: "true",
-                        languages: "spahish", "intermediate-english"
-                      },
- challenge: "Create a Marketplace with Node JS"
-}
-```
+---
 
+### **Tecnologías y herramientas que uso**
 
-📊 **Este mes dedique mi tiempo en:** 
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  </a>
+</p>
 
-```text
-💬 Languages: 
-JavaScript                     ████████████░░░░░░░░░░░░░   40% 
-Matlab                         ████████████░░░░░░░░░░░░░   50% 
-Kotlin                         ████░░░░░░░░░░░░░░░░░░░░░   10% 
+---
 
-🔥 Editores: 
-VSC                           ████████████████████░░░░░   70% 
-Matlab                        █████░░░░░░░░░░░░░░░░░░░░   20% 
-Android Studio                ███░░░░░░░░░░░░░░░░░░░░░░   10%
+### **Proyectos Destacados**
 
-💻 Sistemas Operativos: 
-MacOs                        ███████████████████░░░░░░   90%
-Windows                      ███████░░░░░░░░░░░░░░░░░░   10%
-```
+* **Asistente Virtual para Negocios:** Una plataforma de automatización que integra **n8n, OpenAI y APIs de Google Cloud** para optimizar la interacción con clientes vía WhatsApp, gestionando hasta **15 citas diarias** y confirmando pagos automáticamente.
+* **Plataforma de Gestión de Cobranza (IMSS):** Creé una solución web que **reemplazó archivos de Excel pesados**, permitiendo la contribución simultánea de múltiples usuarios y mejorando la eficiencia del proceso.
+* **Solución Forense (CICATA):** Desarrollé un sistema que aplica la **Distancia de Hellinger** para identificar el origen de una fotografía. El proyecto fue exitoso y se **registró ante el INDAUTOR**.
 
-![Erick's github stats](https://github-readme-stats.vercel.app/api?username=erickpinzon18&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conocer nuevas personas y aprender de ellas para ir expandiendo mi conocimiento :)</em>
+<p align="center">
+  <a href="https://github.com/tu-usuario/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=erickpinzon18&show_icons=true&theme=onedark" alt="Erick's GitHub Stats">
+  </a>
+</p>
